@@ -1,5 +1,3 @@
-# diurna-privacy
-
 # Privacy Policy — Diurna
 
 **Last updated: March 6, 2026**
