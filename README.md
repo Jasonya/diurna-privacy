@@ -82,7 +82,7 @@ If this policy changes materially, we will update the date at the top of this pa
 
 For questions about this privacy policy or to submit a data deletion request, contact the research team at:
 
-**[your-email@institution.edu]**
+whuang80@uic.edu
 
 ---
 
